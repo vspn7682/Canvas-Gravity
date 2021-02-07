@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.showcase {
+  width: 100%;
+  height: 100vh;
+}
+
+canvas {
+  background: radial-gradient(rgb(126, 146, 55), rgb(44, 43, 98));
+}
